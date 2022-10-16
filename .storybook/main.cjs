@@ -20,5 +20,6 @@ module.exports = {
     if (configType === 'PRODUCTION') {
       config.base = '/ignite-lab-rocketseat/'
     }
+    return config
   }
 }
