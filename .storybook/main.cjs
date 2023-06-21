@@ -19,7 +19,7 @@ module.exports = {
 
   viteFinal: (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/ignite-lab-rocketseat/'
+      config.base = '/Design-System-with-Storybook/'
     }
     return config
   }
