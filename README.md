@@ -1,7 +1,7 @@
 # Design System with Storybook
 O Storybook executa paralelamente à aplicação em desenvolvimento. Ajuda-o a construir componentes de interface de utilizador (UI na forma original) isolados da lógica de negócio e contexto da aplicação. Versões para React, Vue e Angular. 
 
-> Evento Ignit Lab - Rocketseat, divirtam-se! `Quero testar:` <a href="https://shintaku-michel.github.io/Design-System-with-Storybook" target="_blank">Design-System-with-Storybook</a>
+> Evento Ignit Lab - Rocketseat, divirtam-se! `Quero testar:` <a href="https://shintaku-michel.github.io/ignite-lab-rocketseat/?path=/story/example-introduction--page" target="_blank">Design-System-with-Storybook</a>
 
 Documentação: <a href="https://storybook.js.org/" target="_blank">https://storybook.js.org/</a>
 
